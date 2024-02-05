@@ -1,0 +1,15 @@
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\bin\Debug\net7.0\01-TesteLogicaDeProgramacao.exe
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\bin\Debug\net7.0\01-TesteLogicaDeProgramacao.deps.json
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\bin\Debug\net7.0\01-TesteLogicaDeProgramacao.runtimeconfig.json
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\bin\Debug\net7.0\01-TesteLogicaDeProgramacao.dll
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\bin\Debug\net7.0\01-TesteLogicaDeProgramacao.pdb
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\obj\Debug\net7.0\01-TesteLogicaDeProgramacao.csproj.AssemblyReference.cache
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\obj\Debug\net7.0\01-TesteLogicaDeProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\obj\Debug\net7.0\01-TesteLogicaDeProgramacao.AssemblyInfoInputs.cache
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\obj\Debug\net7.0\01-TesteLogicaDeProgramacao.AssemblyInfo.cs
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\obj\Debug\net7.0\01-TesteLogicaDeProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\obj\Debug\net7.0\01-TesteLogicaDeProgramacao.dll
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\obj\Debug\net7.0\refint\01-TesteLogicaDeProgramacao.dll
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\obj\Debug\net7.0\01-TesteLogicaDeProgramacao.pdb
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\obj\Debug\net7.0\01-TesteLogicaDeProgramacao.genruntimeconfig.cache
+C:\Users\leomi\Desktop\A\REPOSITORIO_GIT\ProgramacaoOrientadaAObjetosComCSharp\01-TesteLogicaDeProgramacao\01-TesteLogicaDeProgramacao\obj\Debug\net7.0\ref\01-TesteLogicaDeProgramacao.dll
